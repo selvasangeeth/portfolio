@@ -1,9 +1,7 @@
-import img1 from "../images/image.png";
 import img2 from "../images/as.png";
 import greenkart from "../images/greenkart.png";
 import vidyanethrralogo from "../images/vidyanethrralogo.png";
 import electrologo from "../images/electrologo.png";
-import certificate from "../images/certificate.png";
 import malware from "../images/malware.png";
 
 export const Bio = {
