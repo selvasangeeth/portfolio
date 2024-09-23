@@ -24,7 +24,6 @@
     "styled-components": "^5.3.5",
     "typewriter-effect": "^2.19.0",
     "web-vitals": "^2.1.4"
- 
   },
   "scripts": {
     "start": "react-scripts start",
@@ -55,5 +54,8 @@
   "description": "Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.",
   "main": "index.js",
   "author": "Sangeeth",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
 }
