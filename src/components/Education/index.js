@@ -97,7 +97,7 @@ const index = () => {
                                     {index !== experiences.length  && <TimelineConnector style={{ background: '#854CE6' }} />}
                                 </TimelineSeparator>
                             </TimelineItem>
-                        ))}
+                        ))} 
                     </Timeline>
 
                 </TimelineSection>
