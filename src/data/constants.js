@@ -262,7 +262,7 @@ export const projects = [
     tags: ["BashScript","Python", "Random-Forest","Numpy", "Dumpit-tool"],
     category: "android app",
     github: "https://github.com/selvasangeeth/Fileless_Malware_Analysis",
-    webapp: "",
+    // webapp: "",
   },
   {
     id: 10,
@@ -272,10 +272,10 @@ export const projects = [
       "Created two different networks with each network of ten systems and configured the systems with IP address in Cisco Packet tracer. Implemented Subnetting and VLAN concepts. In normal switching the data will broadcast to all PCs but by using VLAN the broadcast is limited and sent to certain systems which ensures the security of the messages that travels through the network",
     image: "https://images.ctfassets.net/aoyx73g9h2pg/60RNKQ4jWkFRAYtyH3i3rW/7da3f4dc1358971754471cff294beca9/Subnetting-Network-Class-Blog.jpg?w=3840&q=100",
     // "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["Switches", "Routers", "VLAN", "Subnetting", "Protocols"],
+    tags: ["Switches", "Routers", "VLAN", "Subnetting"],
     category: "android app",
-    github: "",
-    webapp: "",
+    // github: "",
+    // webapp: "",
   },
 ];
 
