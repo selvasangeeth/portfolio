@@ -136,8 +136,8 @@ export const experiences = [
   {
     id: 0,
     img: "https://img.icons8.com/?size=100&id=aczgoYL07gXY&format=png&color=000000",
-    role: "Networking",
-    company: "Thiran Hub",
+    role: "NETWORKING",
+    company: "THIRAN HUB",
     date: "Dec 2023",
     desc: `During my networking internship, I gained practical skills in configuring network devices, understanding protocols, and implementing security measures. Hands-on experience with routers and switches enhanced my ability to design and maintain efficient network infrastructures.`,
     skills: [
@@ -153,7 +153,7 @@ export const experiences = [
   {
     id: 1,
     img: electrologo,
-    role: "Mern Stack Internship",
+    role: "MERN STACK",
     company: "ELECTRO CLOUD LABS",
     date: "June 2023 - July 2023",
     desc: "During my internship, I gained valuable hands-on experience in full-stack development, specializing in React.js, MongoDB, Express.js, and Node.js. This opportunity allowed me to deepen my knowledge of the MERN stack and develop expertise in building scalable and efficient web applications.",
