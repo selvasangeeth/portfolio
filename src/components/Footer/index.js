@@ -112,7 +112,7 @@ function Footer() {
             <EmailIcon />
           </SocialMediaIcon>
         </SocialMediaIcons>
-        <Copyright>&copy; 2024 Selva Sangeeth</Copyright>
+        <Copyright>&copy; 2025 Selva Sangeeth</Copyright>
       </FooterWrapper>
     </FooterContainer>
   );
